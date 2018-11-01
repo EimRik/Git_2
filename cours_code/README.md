@@ -1,6 +1,6 @@
 **Une description du cours**
 
-[The Hacking Project](https://www.thehackingproject.org/) propose des formations au code pendant 11 semaines sans professeurs, en groupe, sans locaux. Les ressources sont multiples mais les vidéos Youtube restent l'outils le plus apprécié et efficasse. Les cours sont gratuit, sous caution. 
+[The Hacking Project](https://www.thehackingproject.org/) propose des formations au code pendant 11 semaines sans professeurs, en groupe, sans locaux. Dans notre cas, l'ensenseignement respecte le cadre de l'Université Paris Est Créteil et se déroule donc au cours du premier semestre d'étude. Les ressources sont multiples mais les vidéos Youtube restent l'outils le plus apprécié et efficasse. Les cours sont gratuit, sous caution. 
 
 Ce cours prendra la forme de 4 projets a rendre chaque semaine. A travers ces projets, les étudiants auront la possibilité de découvrir le monde du codage et d'y progresser. 
 
